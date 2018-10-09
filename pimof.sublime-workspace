@@ -1,0 +1,1124 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"resul",
+				"result"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"tab",
+				"tabla"
+			],
+			[
+				"in",
+				"info \tBootstrap 3 Class"
+			],
+			[
+				"diametro_",
+				"diametro_min"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"btn-a",
+				"btn-secondary \tBootstrap 4 Class"
+			],
+			[
+				"utf8",
+				"utf8_encode"
+			],
+			[
+				"btn-suc",
+				"btn-success \tBootstrap 4 Class"
+			],
+			[
+				"btn-succ",
+				"btn-outline-success \tBootstrap 4 Class"
+			],
+			[
+				"btn",
+				"btn-info \tBootstrap 3 Class"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"btn-su",
+				"btn-success \tBootstrap 4 Class"
+			],
+			[
+				"btn-succes",
+				"btn-outline-success \tBootstrap 4 Class"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"btn-pry",
+				"btn-outline-primary \tBootstrap 4 Class"
+			],
+			[
+				"btn-",
+				"btn-success \tBootstrap 3 Class"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"lis",
+				"list-group-item \tBootstrap 3 Class"
+			],
+			[
+				"bord",
+				"border-right"
+			],
+			[
+				"navbar-fixed",
+				"navbar-fixed-top \tBootstrap 3 Class"
+			],
+			[
+				"fixed-t",
+				"navbar-fixed-top \tBootstrap 3 Class"
+			],
+			[
+				"fixed",
+				"fixed-bottom \tBootstrap 4 Class"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"file",
+				"custom-file \tBootstrap 4 Class"
+			],
+			[
+				"nav",
+				"navbar \tBootstrap 3 Class"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"id_vara",
+				"id_variable"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"con",
+				"contador"
+			],
+			[
+				"esti",
+				"estimacion"
+			],
+			[
+				"str_ge",
+				"str_general"
+			],
+			[
+				"str_gene",
+				"str_genero_spp"
+			],
+			[
+				"niv",
+				"nivel2"
+			],
+			[
+				"par",
+				"part3"
+			],
+			[
+				"str",
+				"str_genero"
+			],
+			[
+				"id_gen",
+				"id3_get_genre_name"
+			],
+			[
+				"no",
+				"nombre"
+			],
+			[
+				"st",
+				"str_binomio"
+			],
+			[
+				"regirt",
+				"registro"
+			],
+			[
+				"arbol",
+				"arboles"
+			],
+			[
+				"retur",
+				"return"
+			],
+			[
+				"getdat",
+				"GETDATE"
+			],
+			[
+				"id_con",
+				"id_condicion"
+			],
+			[
+				"text-dange",
+				"text-danger \tBootstrap 3 Class"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"ar",
+				"arboles"
+			],
+			[
+				"function",
+				"create_function"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"navbar-",
+				"navbar-inverse \tBootstrap 4 Class"
+			],
+			[
+				"dropdo",
+				"dropdown-toggle"
+			],
+			[
+				"dropdown-to",
+				"dropdown-toggle \tBootstrap 4 Class"
+			],
+			[
+				"drop",
+				"dropdown \tBootstrap 3 Class"
+			],
+			[
+				"navbar-coll",
+				"navbar-collapse \tBootstrap 4 Class"
+			],
+			[
+				"navba",
+				"navbar \tBootstrap 3 Class"
+			],
+			[
+				"fix",
+				"fixed-top \tBootstrap 4 Class"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"ta",
+				"table \tBootstrap 3 Class"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"btn-pr",
+				"btn-primary \tBootstrap 3 Class"
+			],
+			[
+				"for",
+				"form-control \tBootstrap 3 Class"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"Regist",
+				"Registrado"
+			],
+			[
+				"mi",
+				"mi_diccionario"
+			],
+			[
+				"b",
+				"boleano"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 1985,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 10734,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/css/estilos.css",
+			"settings":
+			{
+				"buffer_size": 5333,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/FrontController.php",
+			"settings":
+			{
+				"buffer_size": 516,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/CalculoController.php",
+			"settings":
+			{
+				"buffer_size": 5956,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/arbol.php",
+			"settings":
+			{
+				"buffer_size": 1806,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Biomasa.php",
+			"settings":
+			{
+				"buffer_size": 105,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Densidad.php",
+			"settings":
+			{
+				"buffer_size": 2164,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/StorageController.php",
+			"settings":
+			{
+				"buffer_size": 5437,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Estimacion.php",
+			"settings":
+			{
+				"buffer_size": 4570,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"codeintel",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/www/pimof",
+		"/D/www/pimof/app",
+		"/D/www/pimof/app/Http",
+		"/D/www/pimof/app/Http/Controllers",
+		"/D/www/pimof/public",
+		"/D/www/pimof/public/css",
+		"/D/www/pimof/resources",
+		"/D/www/pimof/resources/views",
+		"/D/www/pimof/routes"
+	],
+	"file_history":
+	[
+		"/D/www/pimof/resources/views/index.blade _old_old_old.php",
+		"/D/www/pimof/app/Http/Controllers/StorageController.php",
+		"/D/www/pimof/app/arbol.php",
+		"/D/www/pimof/app/Estimacion.php",
+		"/D/www/pimof/resources/views/index.blade.php",
+		"/D/www/pimof/database/migrations/2017_11_13_024633_create_arbols_table.php",
+		"/D/www/pimof/public/css/estilos.css",
+		"/D/www/pimof/public/js/script.js",
+		"/D/www/pimof/app/Http/Controllers/Controller.php",
+		"/D/www/pimof/app/Http/Controllers/FrontController.php",
+		"/D/www/pimof/routes/web.php",
+		"/D/www/pimof/app/Http/Controllers/CalculoController.php",
+		"/D/www/pimof/database/migrations/2017_11_14_233323_create_estimacions_table.php",
+		"/D/www/pimof/database/migrations/2017_11_13_222132_create_modelos_table.php",
+		"/D/www/pimof/public/js/app.js",
+		"/D/www/pimof/app/Fraccion.php",
+		"/D/www/pimof/app/Densidad.php",
+		"/D/www/pimof/app/Estimacion_old.php",
+		"/D/www/pimof/config/app.php",
+		"/D/www/pimof/database/migrations/2017_11_14_192309_create_densidads_table.php",
+		"/D/www/pimof/database/migrations/2017_11_15_010356_create_biomasas_table.php",
+		"/D/www/pimof/database/migrations/2017_11_14_192345_create_fraccions_table.php",
+		"/D/www/pimof/database/migrations/2017_11_14_192345_create_faccions_table.php",
+		"/D/www/pimof/composer.lock",
+		"/D/www/pimof/composer.json",
+		"/D/www/pimof/config/database.php",
+		"/D/www/pimof/.env",
+		"/D/www/pimof/vendor/symfony/http-foundation/File/UploadedFile.php",
+		"/D/www/pimof/vendor/symfony/http-kernel/HttpCache/Store.php",
+		"/D/www/pimof/pimof.sublime-project",
+		"/D/www/juno/routes/web.php",
+		"/D/www/juno/public/css/estilos.css",
+		"/D/www/juno/resources/views/index.blade.php",
+		"/D/www/juno/app/Arbol.php",
+		"/D/www/juno/public/js/script.js",
+		"/D/www/juno/app/Estimacion.php",
+		"/D/www/juno/app/Modelo.php",
+		"/D/www/juno/app/Http/Controllers/CalculoController.php",
+		"/D/www/juno/database/migrations/2017_09_27_164233_create_estimacions_table.php",
+		"/D/www/juno/database/migrations/2017_09_29_121113_create_modelos_table.php",
+		"/D/www/juno/database/migrations/2017_08_15_171122_create_arbols_table.php",
+		"/D/www/juno/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/D/www/juno/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/D/www/juno/public/js/app.js",
+		"/D/www/juno/public/css/app.css",
+		"/D/www/juno/resources/views/layouts/principal.blade.php",
+		"/D/www/juno/database/migrations/2017_09_19_173400_create_estandarizacion_ecoregiones_table.php",
+		"/D/www/juno/database/migrations/2017_09_19_173419_create_estandarizacion_especies_table.php",
+		"/D/www/juno/app/Test.php",
+		"/D/www/juno/database/migrations/2017_09_12_112224_create_estandarizacions_table.php",
+		"/D/www/juno/config/database.php",
+		"/D/www/juno/.env",
+		"/D/www/juno/config/database_old.php",
+		"/D/www/juno/.env_old",
+		"/D/www/juno/app/Estandarizacion.php",
+		"/D/www/juno/database/migrations/2017_09_12_174952_create_promedios_especies_table.php",
+		"/D/www/juno/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/www/juno/database/migrations/2017_09_12_111122_create_estandarizacion_table.php",
+		"/D/www/juno/config/app.php",
+		"/D/www/juno/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php",
+		"/D/www/juno/app/Http/Controllers/FrontController.php",
+		"/D/www/calculo/app/Http/Controllers/FrontController.php",
+		"/C/xampp/htdocs/bootstrap/34/index.html",
+		"/D/www/calculo/resources/views/principal.blade.php",
+		"/C/xampp/htdocs/bootstrap/02/index.html",
+		"/C/xampp/htdocs/bootstrap/01/index.html",
+		"/D/www/calculo/resources/views/layouts/footer.blade.php",
+		"/D/www/calculo/config/database.php",
+		"/D/www/calculo/config/app.php",
+		"/D/www/calculo/app/User.php",
+		"/D/www/cinema/app/Http/Controllers/UsuarioController.php",
+		"/D/www/cinema/resources/views/usuario/edit.blade.php",
+		"/D/www/cinema/resources/views/layouts/admin.blade.php",
+		"/D/www/cinema/config/app.php",
+		"/D/www/cinema/composer.json",
+		"/D/www/cinema/resources/views/usuario/index.blade.php",
+		"/D/www/cinema/resources/views/usuario/forms/usr.blade.php",
+		"/D/www/cinema/app/User.php",
+		"/D/www/cinema/resources/views/usuario/create.blade.php",
+		"/D/Archivos/Desktop/Estimación para FAO/Arbolado/Ejecutar estimación.txt",
+		"/D/www/cinema/routes/web.php",
+		"/D/www/cinema/resources/views/index.blade.php",
+		"/D/www/cinema/resources/views/admin/index.blade.php",
+		"/D/www/cinema/resources/views/layouts/principal.blade.php",
+		"/D/www/cinema/resources/views/reviews.blade.php",
+		"/D/www/cinema/app/Http/Controllers/FrontController.php",
+		"/D/www/cinema/resources/views/admin/index.php",
+		"/D/www/cinema/resources/views/contact.blade.php",
+		"/D/www/cinema/resources/views/contact.php",
+		"/D/www/cinema/app/Http/Controllers/MovieController.php",
+		"/D/www/cinema/resources/views/reviews.php",
+		"/D/www/cinema/resources/views/index.php",
+		"/D/www/laravel/readme.md",
+		"/D/www/cinema/app/Http/Controllers/PruebaController.php",
+		"/D/www/cinema/.env",
+		"/D/www/cinema/app/Genre.php",
+		"/D/www/cinema/app/Movie.php",
+		"/D/www/cinema/database/migrations/2017_07_10_000000_create_genres_table.php",
+		"/D/www/cinema/database/migrations/2017_07_10_000000_create_movies_table.php",
+		"/D/Archivos/Desktop/django/prueba/src/boletin/forms.py",
+		"/D/Archivos/Desktop/django/prueba/src/templates/inicio.html",
+		"/D/Archivos/Desktop/django/prueba/src/prueba/urls.py",
+		"/D/Archivos/Desktop/django/prueba/src/boletin/views.py",
+		"/D/Archivos/Desktop/django/prueba/src/boletin/admin.py",
+		"/D/Archivos/Desktop/django/prueba/src/prueba/settings.py",
+		"/D/Archivos/Desktop/django/prueba/src/boletin/models.py",
+		"/D/Archivos/Desktop/Python ejercicios/Hola",
+		"/C/xampp/htdocs/new.py",
+		"/C/xampp/htdocs/new2.py",
+		"/D/Archivos/Desktop/django/prueba/prueba/manage.py",
+		"/D/wsgi_app/wsgi_app.py",
+		"/D/Archivos/Downloads/mod_wsgi-4.5.15/setup.py",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/apache/conf/httpd.conf"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"plantillas",
+			"$arboles",
+			"arboles",
+			"sql",
+			"jpg",
+			"p",
+			"ecuacion",
+			"prepara_arboles",
+			"densidades",
+			"change",
+			"gif",
+			"xs",
+			"gridData",
+			"\n\nfunction arbol_carbono() {\n\n\t$.ajax({\n\t\turl: route + 'arbol_carbono',\n\t\theaders: {'X-CSRF-TOKEN': token},\n\t\ttype: 'POST',\n\t\tdataType: 'json',\n\t\tdata: {prueba: 'test'},\n\t    success: function (response) {\n\t    \t//alert(response.mensaje);\n\t    \t//arbol_carbono();\n\t    },\n\t    error: function(jqXHR, textStatus, errorThrown) {\n\t        console.log(JSON.stringify(jqXHR));\n\t        console.log(\"AJAX error: \" + textStatus + ' : ' + errorThrown);\n\t    }\n\t});\n}",
+			"arbol_decisiones",
+			"provi",
+			"abreviatura",
+			"prepara_arboles",
+			"arboles",
+			"modelos",
+			",\n",
+			"providers",
+			"'Excel' => Maatwebsite\\Excel\\Facades\\Excel::class,",
+			"input",
+			"type",
+			"importa_arboles",
+			"pdo",
+			"provider",
+			"required",
+			"packa",
+			"store",
+			"stor",
+			"post",
+			"posi",
+			"sidenav",
+			"well",
+			"\n            <div class=\"col-sm-3 div-blue\">\n                <h3>Arboles</h3>\n            </div>",
+			"'providers' => [",
+			"providers",
+			"require",
+			"take",
+			"arra",
+			"eval",
+			"eva",
+			"arbol_decisiones",
+			"modelos_calculables",
+			"OR",
+			"m.",
+			"arbol_decisiones",
+			"id_bio_modelo_alometrico",
+			"estimaciones",
+			"$this->part3 . '9' . ' AND a.id BETWEEN ' . $id_inicio . ' AND ' . $id_fin . $this->part4",
+			"($id_inicio, $id_fin)",
+			". $this->part4",
+			"nivel1()",
+			"$this->part4",
+			"DB::select",
+			"lista_modelos",
+			"$this->part2 . '9' . $this->part3",
+			"$this->part1 .",
+			" $this->str_query .",
+			"str_query",
+			"            $",
+			"idx_",
+			"lista_modelos",
+			"modelo",
+			"DECLARE",
+			"not",
+			"calculo_zetas_por_especie",
+			"estandarizacion_vivos",
+			"estandarizacion_tocones",
+			"estandarizacion_vivos",
+			"calculo_medidas_estandarizadas",
+			"estandarizacion_especies",
+			"prueba",
+			"ion estandarizacion",
+			"estandarizacion_ecoregiones",
+			"estandarizacion",
+			"ion estan",
+			"$result",
+			"lista_arboles",
+			"arboles",
+			"estandarizacion",
+			"arboles",
+			"estandarizacion",
+			"id_arboles",
+			"paso-2",
+			"paso-1",
+			"estandarizacion",
+			"cargando",
+			"selector",
+			"li#paso",
+			"selector",
+			"estandarizacion",
+			"lista",
+			"1",
+			"pasos",
+			"h3",
+			"h2",
+			"h1",
+			"logo",
+			"arbol",
+			"mensaje",
+			"lista_arboles",
+			"provi",
+			"DB",
+			"mn",
+			"MN",
+			"time",
+			"store",
+			"listar_arboles",
+			"jquery",
+			"lista_arboles",
+			"titulo",
+			"mn",
+			"humbo",
+			"fm",
+			"/>\n",
+			"h1",
+			"jquery",
+			"style.css",
+			"lang",
+			"debu",
+			">\n",
+			"td",
+			"></",
+			"Form",
+			"providers"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"||",
+			"modelo.",
+			"estimacion",
+			"estimaciones",
+			"$this->part3",
+			"()",
+			". ' AND a.id BETWEEN ' . $id_inicio . ' AND ' . $id_fin . $this->part4",
+			"nivel1($id_inicio, $id_fin)",
+			"$this->part4 . $this->inicio . ' AND ' . $this->fin . $this->part5",
+			"DB::update",
+			"$this->part3 . '9' . $this->part4",
+			"$this->part1 . '9' . $this->part2 .",
+			"",
+			"$resultado",
+			"paso2",
+			"paso1",
+			"paso",
+			"'li#' + selector",
+			"li# + selector"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1985,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								621,
+								621
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6445,
+								6445
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2713.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/css/estilos.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3222,
+								3229
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 5069.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/Http/Controllers/FrontController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								236,
+								236
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/Http/Controllers/CalculoController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5956,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2956,
+								2960
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/arbol.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1806,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/Biomasa.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/Densidad.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/Http/Controllers/StorageController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5437,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4343,
+								4349
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/Estimacion.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								228,
+								228
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pimof.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"uploa",
+				"vendor\\symfony\\http-foundation\\File\\UploadedFile.php"
+			],
+			[
+				"store",
+				"vendor\\symfony\\http-kernel\\HttpCache\\Store.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 451.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
